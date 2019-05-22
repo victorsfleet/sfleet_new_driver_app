@@ -1,4 +1,4 @@
-package com.example.new_driver_app;
+package com.sfleet_provider;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

@@ -8,6 +8,7 @@ class MaintenanceServiceRequestPage extends StatelessWidget {
         backgroundColor: Colors.blue,
         title: Text('ASI12218')
       ),
+      body: Text('Hola mundo!')
     );
   }
 }
